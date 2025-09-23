@@ -2,6 +2,7 @@
 
 In this repository I'll upload all the projects and practices that I do in class while I learn Python.
 
-[markdowntohtml]: https://markdowntohtml.com
+[Visit my GitHub](https://github.com/DSanCab968)
 
-[bears]: https://placebear.com/300/300
+![bears](http://placebear.com/200/200)
+
