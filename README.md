@@ -19,13 +19,6 @@ In this repository I'll upload all the projects and practices that I do in class
 
 ---
 
-## 📂 Proyectos destacados
-- **[Node-RED + MySQL con Docker](#)** – Dashboard para entrada y almacenamiento de datos  
-- **[Configuración de redes en Packet Tracer](#)** – Prácticas de VLAN, EtherChannel y enrutamiento estático  
-- **[Scripts de administración](#)** – Automatización en PowerShell y CMD  
-
----
-
 [Visit my GitHub](https://github.com/DSanCab968)
 
 ¡Gracias por visitar mi perfil! 🚀
