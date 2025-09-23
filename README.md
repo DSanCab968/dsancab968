@@ -1,6 +1,6 @@
-## Hi my name is Dani and I aim to become a System Administrator. ##
+## Hola me llamo Dani y quiero convertirme en Administrador de Sistemas. ##
 
-In this repository I'll upload all the projects and practices that I do in class while I learn Python.
+En este repositorio subiré todas mis practicas de clase.
 
 ---
 
