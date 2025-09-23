@@ -4,5 +4,5 @@ In this repository I'll upload all the projects and practices that I do in class
 
 [Visit my GitHub](https://github.com/DSanCab968)
 
-![bears](http://placebear.com/200/200)
+
 
