@@ -1,6 +1,6 @@
 ## Hola me llamo Dani y quiero convertirme en Administrador de Sistemas. ##
 
-En este repositorio subiré todas mis practicas de clase.
+En mi perfil subiré todas mis practicas de clase en varios repositorios.
 
 ---
 
